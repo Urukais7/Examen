@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #d11414;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  p {
+    color: #666;
+  }
